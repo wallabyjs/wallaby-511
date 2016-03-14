@@ -1,0 +1,26 @@
+{
+  "name": "wallaby-511",
+  "version": "1.0.0",
+  "description": "",
+  "main": "wallaby.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallabyjs/wallaby-511.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wallabyjs/wallaby-511/issues"
+  },
+  "homepage": "https://github.com/wallabyjs/wallaby-511#readme",
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "browserify-ng-html2js": "^1.2.0",
+    "coffeeify": "^2.0.1",
+    "lodash": "^4.6.1",
+    "wallabify": "0.0.14"
+  }
+}
